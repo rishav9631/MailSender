@@ -1,5 +1,11 @@
 # MailSender Project (Email Sending Platform)
 
+<video autoplay muted loop width="100%">
+  <source src="assets/Videos/demo-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ![Main Page](assets/Images/file1.png)
 
 ## Project Description

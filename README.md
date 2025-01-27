@@ -1,6 +1,6 @@
 # MailSender Project (Email Sending Platform)
 
-![Main Page](assets/Images/file1.jpg)
+![Main Page](assets/Images/file1.png)
 
 ## Project Description
 

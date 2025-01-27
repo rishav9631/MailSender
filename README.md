@@ -2,7 +2,6 @@
 
 <video autoplay muted loop width="100%">
   <source src="assets/Videos/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
 </video>
 
 
@@ -145,7 +144,7 @@ mailsender/
 ## 🖼️ Example Screenshots
 
 ### Form Interface
-![Form Interface](assets/Images/file1.jpg)
+![Form Interface](assets/Images/file1.png)
 
 ### Backend Server Response
 ![Server Logs](assets/Images/file2.jpeg)
